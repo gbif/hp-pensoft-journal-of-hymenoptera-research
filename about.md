@@ -2,25 +2,25 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  Verheyde F, Quicke DLJ (2022) Review of adult diapause in ichneumonid wasps (Hymenoptera, Ichneumonidae). Journal of Hymenoptera Research 91: 185-208. [https://doi.org/10.3897/jhr.91.83618](https://doi.org/10.3897/jhr.91.83618)
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Journal of Hymenoptera Research](https://jhr.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**Journal of Hymenoptera Research** publishes papers of high scientific quality reporting comprehensive research on all aspects of Hymenoptera, including biology, behavior, ecology, systematics, taxonomy, genetics, and morphology. Taxonomic papers describing single species are acceptable if the species has economic importance or provides new data on the biology or evolution of the genus or higher taxon. Manuscript length generally should not exceed 50 typed pages; however, no upper limit on length has been set for papers of exceptional quality and importance, including taxonomic monographs at generic or higher level.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+**Journal of Hymenoptera Research** considers the following categories of papers for publication:
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+* Original research articles,
+* Reviews as longer articles, offering a comprehensive overview, historical analysis or/and future perspectives of a topic,
+* Monographs and collection of papers with no limit in size, published as 'special issues',
+* Short communications,
+* Letters and Discussion papers,
+* Book reviews.
+
+The journal will be published online (standard) and as a print version (on request).
+
+**The Journal of Hymenoptera Research** is published on behalf the International Society of Hymenopterists [www.hymenopterists.org](www.hymenopterists.org).

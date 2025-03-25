@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Journal of Hymenoptera Research
+description: Browse data on GBIF associated with publications in Journal of Hymenoptera Research
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Ridenbaugh RD, Glover AN, Linnen CR (2023) First record of the pine sawfly _Neodiprion warreni_ (Hymenoptera, Diprionidae) in the state of Tennessee and on _Pinus virginiana_. Journal of Hymenoptera Research 96: 937-947. [https://doi.org/10.3897/jhr.96.112395](https://doi.org/10.3897/jhr.96.112395)"
 height: 75vh
 cta:
   - text: Datasets
